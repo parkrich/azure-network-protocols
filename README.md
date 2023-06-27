@@ -35,7 +35,7 @@ Filtering out ICMP traffic in Wireshark using Powershell. A perpetual ping is cr
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Signing into Secure Shell to observe the filtering of ssh traffic. This is done by accessing Ubuntu through the private IP address.
 </p
 
  ![image](https://github.com/parkrich/azure-network-protocols/assets/137697108/ac7f45fa-39cd-419f-9113-8c0aeeb6ff18) 
