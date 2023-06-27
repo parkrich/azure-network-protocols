@@ -42,7 +42,7 @@ Signing into Secure Shell to observe the filtering of ssh traffic. This is done 
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Filtering dhcp traffic by renewing, or reissuing, an IP address for the Windows VM.
 </p>
 
 ![image](https://github.com/parkrich/azure-network-protocols/assets/137697108/1cd8ec97-c6ef-4bd8-a7b8-313535667820)
