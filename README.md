@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-These are observations of the different traffic between various Network Security groups. <br />
+Observing traffic between NSGs and Azure Virtual Machines. <br />
 
 <h2>Environments and Technologies Used</h2>
 
