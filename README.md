@@ -56,7 +56,7 @@ Filtering dns traffic of random websites using nslookup. Notice that one of the 
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Interesting observation of tcp port 3389. The filter creates perpetual traffic as port 3389 is a livestream port, meaning traffic will always flow through it regardless of what is done to it.
 </p>
 
 ![image](https://github.com/parkrich/azure-network-protocols/assets/137697108/3d0c705e-10c0-4023-a2f0-9f7547ccf60a)
