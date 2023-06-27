@@ -20,10 +20,11 @@ Observing traffic between NSGs and Azure Virtual Machines. <br />
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Filter ICMP
+- Filter SSH
+- Filter DHCP
+- Filter DNS
+- Filter tcp port 3389
 
 <h2>Actions and Observations</h2>
 
